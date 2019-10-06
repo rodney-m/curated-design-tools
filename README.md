@@ -9,10 +9,12 @@
 ### Design tools
 
 - [Grabient](https://grabient.com) - Beautiful and simple UI for generating web gradients.
+- [uiGradients](https://uigradients.com/) - Beautiful colored gradients
 - [Blob Maker](https://www.blobmaker.app) - Make organic svg shapes for your next design.
 - [Coolors](https://coolors.co) - Generate perfect color combinations for your designs.
 - [Metatags](https://metatags.io) - Edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
 - [Css filters](https://www.cssfilters.co) - Visual playground for generating CSS for custom and Instagram like photo filters.
+- [Can I use ](https://compressor.io/compress) - browser comatibility
 
 
 ### Patterns & backgrounds
@@ -62,6 +64,11 @@
 ### Font Icons
 
 - [Font Awesome](https://fontawesome.com) -  Get vector icons and social logos on your website with Font Awesome
+
+
+### Image Compression
+
+- [Image Compression](https://compressor.io/compress) - Get your images compressed without loosing the resolution so that your site might load faster
 
 ### Stock Video
 
