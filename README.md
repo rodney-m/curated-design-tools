@@ -67,3 +67,9 @@
 ### Stock Photos
 - [Pexels](https://www.pexels.com/) - Collections of High Definiton stock images an some videos shared by talented creators
 - [Pixabay](https://pixabay.com/) - Stunning free images & royalty free stock images and videos shared by our talented community
+
+### Image Compression
+
+-[Compress Images](https://compressor.io/compress) - Compress your images without loosing quality so that your pages can load faster
+-[Compress PNG images](https://tinypng.com/) - Compress your PNG images without loosing quality so that your pages can load faster
+
